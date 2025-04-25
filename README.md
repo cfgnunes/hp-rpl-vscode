@@ -1,6 +1,6 @@
 # HP RPL Language Support
 
-This Visual Studio Code extension adds language support for [HP RPL](https://en.wikipedia.org/wiki/RPL_(programming_language)) (User RPL, System RPL), the programming language used in HP graphing calculators such as the HP 50g, HP 49G, and other similar models. It provides syntax highlighting and helps streamline development directly within VSCode.
+This Visual Studio Code extension adds language support for [HP User RPL](https://en.wikipedia.org/wiki/RPL_(programming_language)), the programming language used in HP graphing calculators such as the HP 50g, HP 49G, and other similar models. It provides syntax highlighting and helps streamline development directly within VSCode.
 
 RPL source files from these calculators use the **RPL character set**, which is a superset of ISO 8859-1.  
 For more information, see: <https://en.wikipedia.org/wiki/RPL_character_set>
