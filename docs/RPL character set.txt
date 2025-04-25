@@ -1,0 +1,40 @@
+This file uses the "RPL character set," which is a superset of ISO 8859-1.
+For more information, see: <https://en.wikipedia.org/wiki/RPL_character_set>
+
+For best viewing, open this file with the "ISO 8859-15" (iso885915) encoding.
+
+RPL character set to UTF-8 mapping:
+
+'' equivalent to '∠'
+'' equivalent to 'x̄'
+'' equivalent to '∇'
+'' equivalent to '√'
+'' equivalent to '∫'
+'' equivalent to 'Σ'
+'' equivalent to '▶'
+'' equivalent to 'π'
+'' equivalent to '∂'
+'' equivalent to '≤'
+'' equivalent to '≥'
+'' equivalent to '≠'
+'' equivalent to 'α'
+'' equivalent to '→'
+'' equivalent to '←'
+'' equivalent to '↓'
+
+'' equivalent to '↑'
+'' equivalent to 'γ'
+'' equivalent to 'δ'
+'' equivalent to 'ε'
+'' equivalent to 'η'
+'' equivalent to 'θ'
+'' equivalent to 'λ'
+'' equivalent to 'ρ'
+'' equivalent to 'σ'
+'' equivalent to 'τ'
+'' equivalent to 'ω'
+'' equivalent to 'Δ'
+'' equivalent to 'Π'
+'' equivalent to 'Ω'
+'' equivalent to '■'
+'' equivalent to '∞'

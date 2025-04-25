@@ -1,0 +1,26 @@
+{
+  "name": "hp-userrpl",
+  "displayName": "HP UserRPL Language Support",
+  "description": "HP UserRPL Language Support for Visual Studio Code",
+  "version": "0.0.1",
+	"publisher": "cfgnunes",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "userrpl",
+      "aliases": ["HP UserRPL", "userrpl", "HP 50g"],
+      "extensions": [".hpprg",".hpalg",".hparr",".hpdir",".hpgrb",".hplst",".hpprj",".hpstr"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "userrpl",
+      "scopeName": "source.userrpl",
+      "path": "./syntaxes/userrpl.tmLanguage.json"
+    }]
+  }
+}
